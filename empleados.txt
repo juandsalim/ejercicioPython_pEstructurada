@@ -1,0 +1,3 @@
+['juan', 'salim', 100.0]
+['pedro', 'picapiedras', 300.0]
+['link', 'zelda', 200.0]
